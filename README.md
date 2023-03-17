@@ -16,3 +16,9 @@
     3. Follow the instructions on the installation wizard to authorize the installer and proceed with the install.
     4. When the installation is successful, click Close to complete the installation process.
     5. If your admin account is different to your user account, you must add the user to the docker-users group. Run Computer Management as an administrator and navigate to Local Users and Groups > Groups > docker-users. Right-click to add the user to the group. Log out and log back in for the changes to take effect.
+
+
+## Installation: 
+###### Install Docker Desktop on Windows: [Installation link](https://docs.docker.com/desktop/install/mac-install/)
+###### Install Docker Desktop on Mac: [Installation link](https://docs.docker.com/desktop/install/windows-install/)
+###### Install Docker Desktop on Linux: [Installation link](https://docs.docker.com/desktop/install/linux-install/) 
