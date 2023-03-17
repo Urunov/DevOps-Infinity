@@ -1,4 +1,4 @@
-##  _Reading source for learning docker_ [![DOCKER](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)](https://docs.docker.com/get-started/)
+##  _Reading source for learning docker_ [![DOCKER](https://banner2.cleanpng.com/20180817/xvc/kisspng-docker-computer-software-node-js-application-softw-using-docker-to-run-twitter-in-a-firefox-container-5b765080f28087.6421835515344805129933.jpg)](https://docs.docker.com/get-started/)
 
 ## Tech books:
       
